@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="EditGPX">
+  <metadata>
+    <name>trace</name>
+  </metadata>
+  <trk>
+    <name>trace</name>
+    <trkseg>
+      <trkpt lat="49.308246" lon="6.113850">
+        <ele>176.4</ele>
+      </trkpt>
+      <trkpt lat="49.308246" lon="6.100120">
+        <ele>186.4</ele>
+      </trkpt>
+      <trkpt lat="49.312273" lon="6.091538">
+        <ele>289.6</ele>
+      </trkpt>
+      <trkpt lat="49.315853" lon="6.073689">
+        <ele>305.6</ele>
+      </trkpt>
+      <trkpt lat="49.326592" lon="6.070943">
+        <ele>190.3</ele>
+      </trkpt>
+      <trkpt lat="49.320104" lon="6.089822">
+        <ele>187.2</ele>
+      </trkpt>
+      <trkpt lat="49.317420" lon="6.114536">
+        <ele>176</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
