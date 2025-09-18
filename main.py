@@ -187,3 +187,5 @@ def graphique_carte():
     plt.ylabel('Latitude')
     plt.title("Trajet sur la carte")
     plt.show()
+ 
+print(graphique_carte())
