@@ -13,7 +13,7 @@ It computes the **cumulative elevation gain**, **total distance** (as the crow f
 
 ## 📈Elevation Profile
 
-![1758223074877](image/README/1758223074877.png)
+![](img/graphiqueAlt.png)
 
 ---
 
